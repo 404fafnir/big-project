@@ -37,10 +37,13 @@ Je vous laisse vous référer au site officiel et aux tutoriels et exemples pré
 
 [Bootstrap](https://getbootstrap.com/)
 
+Pour faire simple nous utiliseront les éléments de base fournit par ce framework tel que les _Navbar_, les _Footers_ et les _Cards_
+
 
 ---
 ### HTML/PHP
 
+Notre site et ses éléments vont être répartis entre plusieurs fichiers notamment la barre de navigation et le footer qui feront l'objet d'un import en PHP.  
 
 ---
 ### SQL et Base de données

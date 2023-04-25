@@ -1,0 +1,20 @@
+#photomoi{
+    width: 25%;
+}
+
+footer{
+    max-height: 0;
+}
+
+#darklight{
+    padding-right: 2rem !important;
+}
+
+#btnswitch{
+    padding-right: 0px !important;
+}
+
+.nobluelink{
+    text-decoration:none !important;
+}
+

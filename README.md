@@ -21,3 +21,30 @@ Connectez vous à votre machine et mettez la à jour à l'aide des commandes sui
 
 Une fois le système à jour vous pouvez télécharger les modules Apache2, PHP et MySQL.
 Les fichier de votre site se trouverons normalement à l'adresse ``~/var/www/html``
+
+/!\ Faites bien attention à retenir les identifiants de votre base de donnée MySQL lorsque vous la setupez /!\
+
+
+## Création du Site Web
+
+La création du site se divisera en plusieurs petites parties : Framework CSS, contenu HTML/PHP et le SQL. 
+
+---
+### CSS Framework
+Nous utiliseront BootStrap comme framework CSS.
+
+Je vous laisse vous référer au site officiel et aux tutoriels et exemples présent sur leurs site.
+
+[Bootstrap](https://getbootstrap.com/)
+
+
+---
+### HTML/PHP
+
+
+---
+### SQL et Base de données
+
+
+
+# Conclusion

@@ -45,9 +45,16 @@ Pour faire simple nous utiliseront les éléments de base fournit par ce framewo
 
 Notre site et ses éléments vont être répartis entre plusieurs fichiers notamment la barre de navigation et le footer qui feront l'objet d'un import en PHP.  
 
+La création du site est très simple et rudimentaire, mais cela suffit amplement pour l'utilité que l'on en a.
+
 ---
 ### SQL et Base de données
 
+La base de donnée est très simple elle aussi, il s'agit d'une base de donnée qui stockera les avis des utilisateurs pour le livre d'or
+
+elle se compose d'une table `user`, qui elle même se compose de quatres colonnes, `id` qui stockera l'id du message et qui servira de clé primaire, `usernameavis` qui sert a stocker le username, `emailavis` qui sert a stocker l'email de la personne émettant l'avis pour procéder à une supression si demandé et `texteavis` qui sert à stocker le corps du message. 
 
 
 # Conclusion
+
+Ce projet m'a permis de mettre en commun toutes mes compétences vues depuis le début de l'année, c'est un bon rappel et une bonne expérience.

@@ -58,6 +58,8 @@ La base de donnée est très simple elle aussi, il s'agit d'une base de donnée 
 
 elle se compose d'une table `user`, qui elle même se compose de quatres colonnes, `id` qui stockera l'id du message et qui servira de clé primaire, `usernameavis` qui sert a stocker le username, `emailavis` qui sert a stocker l'email de la personne émettant l'avis pour procéder à une supression si demandé et `texteavis` qui sert à stocker le corps du message. 
 
+Ne surtout pas oublier de Bind les paramètre des requetes SQL et d'utiliser `htmlspecialchar` pour eviter les problèmes de sécurités.
+
 
 # Conclusion
 
